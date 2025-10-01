@@ -12,7 +12,7 @@ Audio/Video Library Analytics & Transcode/Remux Automation
 
 
 <h2>
-<a href="https://docs.tdarr.io/docs/installation/windows-linux-macos" target="_blank">Setup/Installation</a>
+<a href="https://docs.tdarr.io/docs/installation/windows-linux-macos" target="_blank">Download/Setup/Installation</a>
 </h2>  
 
 
